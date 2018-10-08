@@ -1,0 +1,8 @@
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\bin\Emgu.CV.License.txt
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\bin\Example.VideoSurveilance.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\bin\Example.VideoSurveilance.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\VideoSurveilance\obj\Debug\VideoSurveilance.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\VideoSurveilance\obj\Debug\VideoSurveilance.VideoSurveilance.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\VideoSurveilance\obj\Debug\VideoSurveilance.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\VideoSurveilance\obj\Debug\Example.VideoSurveilance.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\VideoSurveilance\obj\Debug\Example.VideoSurveilance.pdb
